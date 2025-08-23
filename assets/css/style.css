@@ -15297,3 +15297,18 @@ Buy Now Btn
     transform: scale3d(1, 1, 1);
   }
 }/*# sourceMappingURL=style.css.map */
+
+
+
+
+
+/* my css */
+
+
+.courses-categories-slides .single-categories-courses-box h3{
+  min-height: 43px;
+}
+
+.justify-content-space-evenly{
+  justify-content: space-evenly !important; 
+}
