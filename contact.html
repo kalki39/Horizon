@@ -128,7 +128,7 @@
                 <div class="section-title">
                     <span class="sub-title">Contact Us</span>
                     <h2>Drop us Message for any Query</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> -->
                 </div>
 
                 <div class="contact-form">
@@ -150,14 +150,21 @@
 
                             <div class="col-lg-6 col-md-12">
                                 <div class="form-group">
-                                    <input type="text" name="phone_number" id="phone_number" required data-error="Please enter your number" class="form-control" placeholder="Your Phone">
+                                    <input type="text" name="tel" id="phone_number" required data-error="Please enter your number" class="form-control" placeholder="Your Phone">
                                     <div class="help-block with-errors"></div>
                                 </div>
                             </div>
 
+                            <!-- <div class="col-lg-6 col-md-12">
+                                <div class="form-group">
+                                    <input type="text" name="qualification" id="qualification" required data-error="Please enter your qualification" class="form-control" placeholder="Your Qualification">
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div> -->
+
                             <div class="col-lg-6 col-md-12">
                                 <div class="form-group">
-                                    <input type="text" name="msg_subject" id="msg_subject" class="form-control" required data-error="Please enter your subject" placeholder="Your Subject">
+                                    <input type="text" name="location" id="msg_subject" class="form-control" required data-error="Please enter your location" placeholder="Your Location">
                                     <div class="help-block with-errors"></div>
                                 </div>
                             </div>
@@ -221,8 +228,43 @@
         <script src="assets/js/jquery.magnific-popup.min.js"></script>
         <script src="assets/js/jquery.ajaxchimp.min.js"></script>
         <script src="assets/js/form-validator.min.js"></script>
-        <script src="assets/js/contact-form-script.js"></script>
+        <!-- <script src="assets/js/contact-form-script.js"></script> -->
         <script src="assets/js/main.js"></script>
         <script src="assets/js/layout.js"></script>
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+        <script type="text/javascript">
+        
+        (function(){
+            emailjs.init("aakFn491_u6JMjo4J");
+            })();
+
+            let devConfig = {
+                serviceID: "service_h1gigm8",
+                templateID: "template_im1mq3w",
+                publicKey: "aakFn491_u6JMjo4J"
+            }
+
+            let prodConfig = {
+                serviceID: "medvision_email_service",
+                templateID: "template_v1jbyv6",
+                publicKey: "dEZ5DvqBIHM2ltkFy"
+            }
+            
+            document.getElementById('contactForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            console.log(this);
+            emailjs.sendForm(devConfig.serviceID, devConfig.templateID, this)
+                .then(function(response) {
+                console.log('SUCCESS!', response.status, response.text);
+                alert("Form submitted successfully! We will contact you soon.");
+
+                document.getElementById('contactForm').reset();
+                }, function(error) {
+                console.log('FAILED...', error);
+                alert("Something went wrong!");
+                });
+            });
+
+    </script>
     </body>
 </html>

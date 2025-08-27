@@ -5025,6 +5025,11 @@ Courses Details CSS
   padding: 20px 0 20px 110px;
   position: relative;
 }
+.courses-review-comments .user-review-new {
+  border-bottom: 1px solid #f3f3f3;
+  padding: 20px 0 20px 20px;
+  position: relative;
+}
 .courses-review-comments .user-review img {
   position: absolute;
   left: 0;

@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="zxx" class="theme-light">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <!-- Links of CSS files -->
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/css/boxicons.min.css">
+        <link rel="stylesheet" href="assets/css/flaticon.css">
+        <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+        <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+        <link rel="stylesheet" href="assets/css/odometer.min.css">
+        <link rel="stylesheet" href="assets/css/meanmenu.min.css">
+        <link rel="stylesheet" href="assets/css/animate.min.css">
+        <link rel="stylesheet" href="assets/css/nice-select.min.css">
+        <link rel="stylesheet" href="assets/css/viewer.min.css">
+        <link rel="stylesheet" href="assets/css/slick.min.css">
+        <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
+        <link rel="stylesheet" href="assets/css/style.css">
+        <link rel="stylesheet" href="assets/css/dark.css">
+        <link rel="stylesheet" href="assets/css/responsive.css">
+
+        <title>Raque - Education Courses & Online Training HTML Template</title>
+        <link rel="icon" type="image/png" href="assets/img/favicon.png">
+    </head>
+    <body>
+        <!-- Preloader -->
+        <div class="preloader">
+            <div class="loader">
+                <div class="shadow"></div>
+                <div class="box"></div>
+            </div>
+        </div>
+        <!-- End Preloader -->
+
+        <!-- Start Header Area -->
+        <div id="header"></div>
+        <!-- End Header Area -->
+
+        <!-- Search Box Layout -->
+        <div class="search-overlay">
+            <div class="d-table">
+                <div class="d-table-cell">
+                    <div class="search-overlay-layer"></div>
+                    <div class="search-overlay-layer"></div>
+                    <div class="search-overlay-layer"></div>
+                    
+                    <div class="search-overlay-close">
+                        <span class="search-overlay-close-line"></span>
+                        <span class="search-overlay-close-line"></span>
+                    </div>
+
+                    <div class="search-overlay-form">
+                        <form>
+                            <input type="text" class="input-search" placeholder="Search here...">
+                            <button type="submit"><i class='bx bx-search-alt'></i></button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Search Box Layout -->
+
+        <!-- Start Page Title Area -->
+        <div class="page-title-area item-bg2 jarallax" data-jarallax='{"speed": 0.3}'>
+            <div class="container">
+                <div class="page-title-content">
+                    
+                    <h2>Courses</h2>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="courses-2-columns-style-1.html">Courses</a></li>
+                        <li id="course-title"></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- End Page Title Area -->
+
+        <!-- Start Courses Details Area -->
+        <section class="courses-details-area pt-100 pb-70">
+            <div class="container">
+                <div class="courses-details-header">
+                    <div class="row align-items-center">
+                        <div class="col-lg-8">
+                            <div class="courses-title">
+                                <h2 id="course-title"></h2>
+                                <p id="course-subtitle"></p>
+                            </div>
+
+                            <div class="courses-meta">
+                                <ul>
+                                    <li>
+                                        <i class='bx bx-folder-open'></i>
+                                        <span>Category</span>
+                                        <a href="#" id="course-category"></a>
+                                    </li>
+                                    <li>
+                                        <i class='bx bx-book'></i>
+                                        <span>Lession</span>
+                                        <a href="#" id="course-lessons"></a>
+                                    </li>
+                                    <li>
+                                        <i class='bx bx-group'></i>
+                                        <span>Students</span>
+                                        <a href="#" id="course-students"></a>
+                                    </li>
+                                    <li>
+                                        <i class='bx bx-calendar'></i>
+                                        <span>Duration</span>
+                                        <a href="#" id="course-duration"></a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4">
+                            <div class="courses-price">
+                                <div class="courses-review">
+                                    <div class="review-stars">
+                                        <i class='bx bxs-star'></i>
+                                        <i class='bx bxs-star'></i>
+                                        <i class='bx bxs-star'></i>
+                                        <i class='bx bxs-star'></i>
+                                        <i class='bx bxs-star'></i>
+                                    </div>
+                                    <span class="reviews-total d-inline-block">( 4.9 )</span>
+                                </div>
+
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-8">
+                        <div class="courses-details-image text-center">
+                            <img id="course-image" src="" alt="image">
+                        </div>
+
+                        <div class="courses-details-desc">
+                            <h3>About Course</h3>
+                            <p id="course-about"></p>
+                            <h3>Courses Content</h3>
+                            <div class="courses-accordion">
+                                <ul class="accordion" id="course-content"></ul>
+                            </div>
+                            <h3>What you'll learn</h3>
+                            <div class="why-you-learn">
+                                <ul id="course-whatyoulearn"></ul>
+                            </div>
+                            <h3>Requirements</h3>
+                            <ul class="requirements-list px-3" id="course-requirements"></ul>
+                            <h3>Who Should Join?</h3>
+                            <ul class="audience-list" id="course-audience"></ul>
+
+                            <h3>Reviews</h3>
+                            <div class="courses-review-comments mt-0" id="course-reviews"></div>
+                        </div>
+
+                    </div>
+
+                    <div class="col-lg-4">
+                        <div class="courses-sidebar-information">
+                            <ul id="sidebar-info"></ul>
+                        </div>
+
+                        <div class="courses-sidebar-syllabus exam-overview">
+                            <h3>Exam Overview</h3>
+                            <div class="courses-list">
+                                <ul id="exam-overview"></ul>
+                            </div>
+                        </div>
+
+                        <div class="courses-sidebar-syllabus">
+                            <h3>FAQ</h3>
+                            <div class="container">
+                                <div class="tab faq-accordion-tab">
+                                    <div class="tab-content">
+                                        <div class="tabs-item">
+                                            <div class="faq-accordion">
+                                                <ul class="accordion" id="faq-list"></ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Courses Details Area -->
+
+        <!-- Start Footer Area -->
+        <div id="footer"></div>
+        <!-- End Footer Area -->
+        
+        <div class="go-top"><i class='bx bx-up-arrow-alt'></i></div>
+
+        <!-- Dark version -->
+        <div class="dark-version">
+            <label id="switch" class="switch">
+                <input type="checkbox" onchange="toggleTheme()" id="slider">
+                <span class="slider round"></span>
+            </label>
+        </div>
+        <!-- Dark version -->
+
+        <!-- Links of JS files -->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/js/owl.carousel.min.js"></script>
+        <script src="assets/js/mixitup.min.js"></script>
+        <script src="assets/js/parallax.min.js"></script>
+        <script src="assets/js/jquery.appear.min.js"></script>
+        <script src="assets/js/odometer.min.js"></script>
+        <script src="assets/js/particles.min.js"></script>
+        <script src="assets/js/meanmenu.min.js"></script>
+        <script src="assets/js/jquery.nice-select.min.js"></script>
+        <script src="assets/js/viewer.min.js"></script>
+        <script src="assets/js/slick.min.js"></script>
+        <script src="assets/js/jquery.magnific-popup.min.js"></script>
+        <script src="assets/js/jquery.ajaxchimp.min.js"></script>
+        <script src="assets/js/form-validator.min.js"></script>
+        <script src="assets/js/contact-form-script.js"></script>
+        <script src="assets/js/main.js"></script>
+        <script src="assets/js/layout.js"></script>
+        <script>
+function getCourseIdFromUrl() {
+    const params = new URLSearchParams(window.location.search);
+    return params.get('id');
+}
+
+function renderList(list) {
+    return list.map(item => `<li>${item}</li>`).join('');
+}
+function renderListwithTick(list) {
+    return list.map(item => `<li><span><i class='bx bx-check'></i>${item}</span></li>`).join('');
+}
+
+function renderAccordion(list) {
+    return list.map(item => `
+        <li class="accordion-item">
+            <a class="accordion-title" href="javascript:void(0)">${item}</a>
+        </li>
+    `).join('');
+}
+
+function renderReviews(reviews) {
+    return reviews.map(r => `
+        <div class="user-review user-review-new">
+            <div class="review-rating">
+                <div class="review-stars">${'<i class="bx bxs-star"></i>'.repeat(r.rating)}</div>
+                <span class="d-inline-block">${r.name}</span>
+            </div>
+            <span class="d-block sub-comment">${r.subComment || ''}</span>
+            <p>${r.comment}</p>
+        </div>
+    `).join('');
+}
+
+function renderSidebar(sidebar) {
+    return `
+        <li><span><i class='bx bxs-badge-check'></i> Level:</span> ${sidebar.level}</li>
+        <li><span><i class='bx bx-video-recording'></i> Type:</span> ${sidebar.type}</li>
+        <li><span><i class='bx bx-time'></i> Duration:</span> ${sidebar.sessionDuration}</li>
+        <li><span><i class='bx bx-code-alt'></i> Batch Options:</span> ${sidebar.batchOptions}</li>
+        <li><span><i class='bx bx-support'></i> Language:</span> ${sidebar.language}</li>
+        <li><span><i class='bx bx-certification'></i> Certificate:</span> ${sidebar.certificate}</li>
+    `;
+}
+
+function renderFAQ(faq) {
+    return faq.map(q => `
+        <li class="accordion-item">
+            <a class="accordion-title" href="javascript:void(0)">
+                <i class='bx bx-chevron-down'></i>
+                ${q.question}
+            </a>
+            <div class="accordion-content show"><p>${q.answer}</p></div>
+        </li>
+    `).join('');
+}
+
+
+$(function() {
+    const courseId = getCourseIdFromUrl() || 'cpc-training';
+    $.getJSON('assets/js/course-detail-dynamic.json', function(courses) {
+        const course = courses.find(c => c.id === courseId);
+        if (!course) {
+            $('#course-title').text('Course not found');
+            window.location.href = 'error-404.html';
+            return;
+        }
+        $('[id=course-title]').text(course.title);
+        $('#course-subtitle').text(course.subtitle);
+        $('#course-category').text(course.category);
+        $('#course-lessons').text(course.lessons);
+        $('#course-students').text(course.students);
+        $('#course-duration').text(course.duration);
+        $('#course-image').attr('src', course.image);
+        $('#course-about').text(course.about);
+        $('#course-content').html(renderAccordion(course.content));
+        $('#course-whatyoulearn').html(renderListwithTick(course.whatYouLearn));
+        $('#course-requirements').html(renderList(course.requirements));
+        $('#course-audience').html(renderList(course.audience));
+        $('#course-reviews').html(renderReviews(course.reviews));
+        $('#sidebar-info').html(renderSidebar(course.sidebar));
+        if (course.examOverview && course.examOverview.length > 0) {
+            $('#exam-overview').html(renderList(course.examOverview));
+            $('.exam-overview').show();
+        } else {
+            $('.exam-overview').hide();
+        }
+        $('#faq-list').html(renderFAQ(course.faq));
+    });
+});
+</script>
+    </body>
+</html>
