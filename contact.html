@@ -235,7 +235,7 @@
         <script type="text/javascript">
         
         (function(){
-            emailjs.init("aakFn491_u6JMjo4J");
+            emailjs.init("M0ymJACoA4Il7o-vN");
             })();
 
             let devConfig = {
@@ -245,15 +245,15 @@
             }
 
             let prodConfig = {
-                serviceID: "medvision_email_service",
-                templateID: "template_v1jbyv6",
-                publicKey: "dEZ5DvqBIHM2ltkFy"
+                serviceID: "service_cxl59ne",    //horizon coding solutions
+                templateID: "template_vhec5tg",
+                publicKey: "M0ymJACoA4Il7o-vN"
             }
             
             document.getElementById('contactForm').addEventListener('submit', function(e) {
             e.preventDefault();
             console.log(this);
-            emailjs.sendForm(devConfig.serviceID, devConfig.templateID, this)
+            emailjs.sendForm(prodConfig.serviceID, prodConfig.templateID, this)
                 .then(function(response) {
                 console.log('SUCCESS!', response.status, response.text);
                 alert("Form submitted successfully! We will contact you soon.");

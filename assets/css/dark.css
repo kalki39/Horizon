@@ -25,7 +25,7 @@ Default CSS
   left: 0;
   right: 0;
   bottom: 0;
-  background: #1949ff;
+  background: #3a3285;
   transition: 0.4s;
 }
 .dark-version .slider:before {
@@ -45,10 +45,10 @@ Default CSS
   background-position: center;
 }
 .dark-version input:checked + .slider {
-  background-color: #1949ff;
+  background-color: #3a3285;
 }
 .dark-version input:focus + .slider {
-  box-shadow: 0 0 1px #1949ff;
+  box-shadow: 0 0 1px #3a3285;
 }
 .dark-version input:checked + .slider:before {
   transform: translateX(24px);
@@ -87,7 +87,7 @@ Default CSS
   color: #f1f1f1 !important;
 }
 .theme-dark p a:hover {
-  color: #1949ff !important;
+  color: #3a3285 !important;
 }
 .theme-dark .h1, .theme-dark .h2, .theme-dark .h3, .theme-dark .h4, .theme-dark .h5, .theme-dark .h6, .theme-dark h1, .theme-dark h2, .theme-dark h3, .theme-dark h4, .theme-dark h5, .theme-dark h6 {
   color: #ffffff !important;
@@ -96,7 +96,7 @@ Default CSS
   color: #ffffff !important;
 }
 .theme-dark .h1 a:hover, .theme-dark .h2 a:hover, .theme-dark .h3 a:hover, .theme-dark .h4 a:hover, .theme-dark .h5 a:hover, .theme-dark .h6 a:hover, .theme-dark h1 a:hover, .theme-dark h2 a:hover, .theme-dark h3 a:hover, .theme-dark h4 a:hover, .theme-dark h5 a:hover, .theme-dark h6 a:hover {
-  color: #1949ff !important;
+  color: #3a3285 !important;
 }
 .theme-dark .bg-F7F9FB {
   background-color: #0e0e0e;
@@ -142,16 +142,16 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .raque-nav .navbar .navbar-nav .nav-item a:hover, .theme-dark .raque-nav .navbar .navbar-nav .nav-item a:focus, .theme-dark .raque-nav .navbar .navbar-nav .nav-item a.active {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .raque-nav .navbar .navbar-nav .nav-item:hover a, .theme-dark .raque-nav .navbar .navbar-nav .nav-item.active a {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .raque-nav .navbar .navbar-nav .nav-item .dropdown-menu li a {
   color: #4a6f8a;
 }
 .theme-dark .raque-nav .navbar .navbar-nav .nav-item .dropdown-menu li a:hover, .theme-dark .raque-nav .navbar .navbar-nav .nav-item .dropdown-menu li a:focus, .theme-dark .raque-nav .navbar .navbar-nav .nav-item .dropdown-menu li a.active {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .raque-nav .navbar .others-option .language-switcher .dropdown-toggle img {
   border: 3px solid #ffffff;
@@ -166,28 +166,28 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .raque-nav .navbar .others-option .cart-wrapper-btn:hover {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .raque-nav .navbar .others-option .search-box {
   color: #ffffff;
 }
 .theme-dark .raque-nav .navbar .others-option .search-box:hover {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .navbar-style-two.is-sticky .raque-nav .navbar .navbar-nav .nav-item a {
   color: #ffffff;
 }
 .theme-dark .navbar-style-two.is-sticky .raque-nav .navbar .navbar-nav .nav-item a:hover, .theme-dark .navbar-style-two.is-sticky .raque-nav .navbar .navbar-nav .nav-item a:focus, .theme-dark .navbar-style-two.is-sticky .raque-nav .navbar .navbar-nav .nav-item a.active {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .navbar-style-two.is-sticky .raque-nav .navbar .navbar-nav .nav-item:hover a, .theme-dark .navbar-style-two.is-sticky .raque-nav .navbar .navbar-nav .nav-item.active a {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .navbar-style-two.is-sticky .raque-nav .navbar .navbar-nav .nav-item .dropdown-menu li a {
   color: #4a6f8a;
 }
 .theme-dark .navbar-style-two.is-sticky .raque-nav .navbar .navbar-nav .nav-item .dropdown-menu li a:hover, .theme-dark .navbar-style-two.is-sticky .raque-nav .navbar .navbar-nav .nav-item .dropdown-menu li a:focus, .theme-dark .navbar-style-two.is-sticky .raque-nav .navbar .navbar-nav .nav-item .dropdown-menu li a.active {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .navbar-style-two.is-sticky .raque-nav .navbar .others-option .language-switcher .dropdown-toggle img {
   border: 3px solid #ffffff;
@@ -202,13 +202,13 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .navbar-style-two.is-sticky .raque-nav .navbar .others-option .cart-wrapper-btn:hover {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .navbar-style-two.is-sticky .raque-nav .navbar .others-option .search-box {
   color: #ffffff;
 }
 .theme-dark .navbar-style-two.is-sticky .raque-nav .navbar .others-option .search-box:hover {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .courses-categories-area.bg-image {
   position: relative;
@@ -233,7 +233,7 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .shorting-menu .filter:hover, .theme-dark .shorting-menu .filter:focus, .theme-dark .shorting-menu .filter.active {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .single-courses-box {
   box-shadow: unset;
@@ -258,7 +258,7 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .single-courses-box .courses-box-footer ul .courses-price {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .single-courses-box:hover .courses-image .courses-tag {
   background-color: #0eb582;
@@ -294,7 +294,7 @@ Default CSS
   background-color: #000000;
 }
 .theme-dark .become-instructor-partner-content.bg-color .default-btn {
-  background-color: #1949ff;
+  background-color: #3a3285;
   color: #ffffff;
 }
 .theme-dark .become-instructor-partner-content.bg-color .default-btn .icon-arrow {
@@ -396,7 +396,7 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .single-courses-item .courses-box-footer ul .courses-price {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .offer-area::before {
   background-color: #000000;
@@ -408,7 +408,7 @@ Default CSS
   background-color: #0e0e0e;
 }
 .theme-dark .single-boxes-item.bg-color {
-  background-color: #1949ff;
+  background-color: #3a3285;
 }
 .theme-dark .single-boxes-item .boxes-btn {
   color: #ffffff;
@@ -473,13 +473,13 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .courses-list-tab .tabs li a:hover, .theme-dark .courses-list-tab .tabs li a:focus {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .courses-list-tab .tabs li a:hover::after, .theme-dark .courses-list-tab .tabs li a:focus::after {
   transform: scaleX(1);
 }
 .theme-dark .courses-list-tab .tabs li.current a {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .courses-list-tab .tabs li.current a::after {
   transform: scaleX(1);
@@ -553,13 +553,13 @@ Default CSS
   background-color: #000000;
 }
 .theme-dark .single-feedback-slides-item .client-info .title span {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .single-funfacts-box {
   border: 5px solid #000000;
 }
 .theme-dark .single-funfacts-box h3 {
-  color: #1949ff !important;
+  color: #3a3285 !important;
 }
 .theme-dark .single-funfacts-box p {
   color: #000000;
@@ -684,7 +684,7 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .motivation-featured-card:hover .featured-btn {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .single-motivation-courses-box {
   background-color: #000000;
@@ -703,7 +703,7 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .single-motivation-courses-box:hover {
-  border: 1px solid #1949ff;
+  border: 1px solid #3a3285;
 }
 .theme-dark .motivation-categories-area {
   background: #0e0e0e;
@@ -744,7 +744,7 @@ Default CSS
   border: 1px solid #0e0e0e;
 }
 .theme-dark .single-team-card:hover {
-  border: 1px solid #1949ff;
+  border: 1px solid #3a3285;
 }
 .theme-dark .single-team-card .team-content span {
   color: #ffffff;
@@ -757,7 +757,7 @@ Default CSS
   border: 1px solid #0e0e0e;
 }
 .theme-dark .single-blog-post-card:hover {
-  border: 1px solid #1949ff;
+  border: 1px solid #3a3285;
 }
 .theme-dark .single-blog-post-card .post-content .post-meta li {
   color: #ffffff;
@@ -766,8 +766,8 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .single-blog-post-card .post-content .read-more-btn {
-  background-color: #1949ff;
-  border: 1px solid #1949ff;
+  background-color: #3a3285;
+  border: 1px solid #3a3285;
   color: #ffffff;
 }
 .theme-dark .education-categories-item {
@@ -793,7 +793,7 @@ Default CSS
   border: 1px solid #000000;
 }
 .theme-dark .testimonials-wrap-slides-item:hover {
-  border: 1px solid #1949ff;
+  border: 1px solid #3a3285;
 }
 .theme-dark .training-course-banner-area {
   position: relative;
@@ -855,7 +855,7 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .start-free-trial-content .start-free-trial-form .form-control:focus {
-  border-color: #1949ff;
+  border-color: #3a3285;
 }
 .theme-dark .start-free-trial-content .start-free-trial-form .form-check .form-check-label {
   color: #ffffff;
@@ -882,13 +882,13 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .instructor-details-desc .instructor-details-sidebar .instructor-details-meta ul li a:hover, .theme-dark .instructor-details-desc .instructor-details-sidebar .instructor-details-meta ul li a:focus {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .pagination-area .page-numbers {
   color: #ffffff;
 }
 .theme-dark .pagination-area .page-numbers:hover {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .courses-categories-area {
   background-color: #0e0e0e;
@@ -904,10 +904,10 @@ Default CSS
 }
 .theme-dark .courses-topbar .topbar-ordering-and-search .topbar-ordering .nice-select .list .option:hover, .theme-dark .courses-topbar .topbar-ordering-and-search .topbar-ordering .nice-select .list .option.focus, .theme-dark .courses-topbar .topbar-ordering-and-search .topbar-ordering .nice-select .list .option.selected.focus {
   background-color: transparent;
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .courses-topbar .topbar-ordering-and-search .topbar-search form label {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .courses-topbar .topbar-ordering-and-search .topbar-search form .input-search {
   color: #ffffff;
@@ -943,10 +943,10 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .single-courses-list-box .box-item .courses-desc .courses-box-footer ul li i {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .single-courses-list-box .box-item .courses-desc .courses-box-footer ul .courses-price {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .widget-area .widget_search form .search-field {
   color: #ffffff;
@@ -974,7 +974,7 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .widget-area .widget_categories ul li a:hover {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .widget-area .widget_categories ul li .post-count {
   color: #ffffff;
@@ -986,8 +986,8 @@ Default CSS
 }
 .theme-dark .widget-area .tagcloud a:hover, .theme-dark .widget-area .tagcloud a:focus {
   color: #ffffff;
-  background-color: #1949ff;
-  border-color: #1949ff;
+  background-color: #3a3285;
+  border-color: #3a3285;
 }
 .theme-dark .widget-area .widget_events_details ul li {
   border-bottom: 1px dashed #0e0e0e;
@@ -1003,19 +1003,19 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .widget-area .widget_events_details ul li a:hover {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .courses-details-header .courses-meta ul li {
   border-right: 1px solid #0e0e0e;
 }
 .theme-dark .courses-details-header .courses-meta ul li span {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .courses-details-header .courses-meta ul li a {
   color: #ffffff;
 }
 .theme-dark .courses-details-header .courses-meta ul li a:hover, .theme-dark .courses-details-header .courses-meta ul li a:focus {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .courses-details-header .courses-price .courses-review .reviews-total {
   color: #ffffff;
@@ -1024,13 +1024,13 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .courses-details-desc .why-you-learn ul li span i {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .courses-details-desc .requirements-list li {
   color: #ffffff;
 }
 .theme-dark .courses-details-desc .requirements-list li::before {
-  background-color: #1949ff;
+  background-color: #3a3285;
 }
 .theme-dark .courses-details-desc p strong {
   color: #ffffff;
@@ -1039,7 +1039,7 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .courses-details-desc .description-features-list li::before {
-  background-color: #1949ff;
+  background-color: #3a3285;
 }
 .theme-dark .courses-details-desc .description-features-list li strong {
   color: #ffffff;
@@ -1048,7 +1048,7 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .courses-details-desc .audience-list li::before {
-  background-color: #1949ff;
+  background-color: #3a3285;
 }
 .theme-dark .courses-details-desc .audience-list li strong {
   color: #ffffff;
@@ -1057,13 +1057,13 @@ Default CSS
   background-color: #0e0e0e;
 }
 .theme-dark .courses-details-desc .courses-author .author-profile .author-profile-title .author-profile-title-details .author-profile-details span {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .courses-details-desc .courses-author .author-profile .author-profile-title .author-profile-raque-profile a {
   color: #ffffff;
 }
 .theme-dark .courses-details-desc .courses-author .author-profile .author-profile-title .author-profile-raque-profile a:hover, .theme-dark .courses-details-desc .courses-author .author-profile .author-profile-title .author-profile-raque-profile a:focus {
-  background-color: #1949ff;
+  background-color: #3a3285;
   color: #ffffff;
 }
 .theme-dark .courses-details-desc .courses-accordion .accordion .accordion-item {
@@ -1077,9 +1077,9 @@ Default CSS
   transform: translateY(-50%) rotate(180deg);
 }
 .theme-dark .courses-details-desc .courses-accordion .accordion .accordion-item .accordion-title:hover, .theme-dark .courses-details-desc .courses-accordion .accordion .accordion-item .accordion-title.active {
-  background-color: #1949ff;
+  background-color: #3a3285;
   color: #ffffff;
-  border-color: #1949ff !important;
+  border-color: #3a3285 !important;
 }
 .theme-dark .courses-details-desc .courses-accordion .accordion .accordion-item:first-child .accordion-title {
   border-top: 1px solid #0e0e0e;
@@ -1105,22 +1105,22 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .courses-details-desc .courses-accordion .accordion .accordion-item .accordion-content .courses-lessons .single-lessons .lessons-title:hover {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .courses-details-desc .courses-accordion .accordion .accordion-item .accordion-content .courses-lessons .single-lessons .lessons-info .duration {
   color: #ffffff;
 }
 .theme-dark .courses-details-desc .courses-accordion .accordion .accordion-item .accordion-content .courses-lessons .single-lessons .lessons-info .duration i {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .courses-details-desc .courses-accordion .accordion .accordion-item .accordion-content .courses-lessons .single-lessons .lessons-info .attrachment-video {
   color: #ffffff;
 }
 .theme-dark .courses-details-desc .courses-accordion .accordion .accordion-item .accordion-content .courses-lessons .single-lessons .lessons-info .attrachment-video i {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .courses-details-desc .courses-accordion .accordion .accordion-item .accordion-content .courses-lessons .single-lessons .lessons-info .attrachment-video:hover {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .courses-sidebar-information ul {
   background-color: #0e0e0e;
@@ -1131,13 +1131,13 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .courses-sidebar-information ul li span i {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .courses-sidebar-syllabus {
   border: 1px solid #0e0e0e;
 }
 .theme-dark .courses-sidebar-syllabus .chapter {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .courses-sidebar-syllabus .courses-list ul li {
   color: #ffffff;
@@ -1146,10 +1146,10 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .courses-sidebar-syllabus .courses-list ul li a:hover, .theme-dark .courses-sidebar-syllabus .courses-list ul li a:focus {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .courses-sidebar-syllabus .courses-list ul li a .free-lesson {
-  background: #1949ff;
+  background: #3a3285;
   color: #ffffff;
 }
 .theme-dark .courses-sidebar-syllabus .courses-list ul li .number {
@@ -1174,7 +1174,7 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .single-events-box .events-box .events-content .content .join-now-btn:hover {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .events-details-header .events-meta ul li a {
   color: #ffffff;
@@ -1243,11 +1243,11 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .faq-accordion-tab .tabs li a:hover {
-  background-color: #1949ff;
+  background-color: #3a3285;
   color: #ffffff;
 }
 .theme-dark .faq-accordion-tab .tabs li.current a {
-  background-color: #1949ff;
+  background-color: #3a3285;
   color: #ffffff;
 }
 .theme-dark .faq-accordion .accordion .accordion-item {
@@ -1309,13 +1309,13 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .myAccount-profile .profile-content .contact-info li a:hover, .theme-dark .myAccount-profile .profile-content .contact-info li a:focus {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .myAccount-profile .profile-content .social li a {
   background-color: #000000;
 }
 .theme-dark .myAccount-profile .profile-content .social li a:hover, .theme-dark .myAccount-profile .profile-content .social li a:focus {
-  background-color: #1949ff;
+  background-color: #3a3285;
   color: #ffffff;
 }
 .theme-dark .myAccount-navigation ul {
@@ -1325,12 +1325,12 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .myAccount-navigation ul li a.active, .theme-dark .myAccount-navigation ul li a:hover {
-  background-color: #1949ff;
+  background-color: #3a3285;
   color: #ffffff;
-  border-color: #1949ff;
+  border-color: #3a3285;
 }
 .theme-dark .myAccount-content p a {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .myAccount-content p a:hover {
   color: #ffffff;
@@ -1348,7 +1348,7 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .myAccount-content .recent-orders-table .table tbody td .view-button:hover {
-  background-color: #1949ff;
+  background-color: #3a3285;
   color: #ffffff;
 }
 .theme-dark .myAccount-content .orders-table .table thead th {
@@ -1364,7 +1364,7 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .myAccount-content .orders-table .table tbody td .view-button:hover {
-  background-color: #1949ff;
+  background-color: #3a3285;
   color: #ffffff;
 }
 .theme-dark .myAccount-content .downloads-table .table thead th {
@@ -1383,7 +1383,7 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .myAccount-content .downloads-table .table tbody td .downloads-button:hover {
-  background-color: #1949ff;
+  background-color: #3a3285;
   color: #ffffff;
 }
 .theme-dark .myAccount-content .edit-account {
@@ -1413,7 +1413,7 @@ Default CSS
 }
 .theme-dark .myAccount-content .edit-account .form-group .nice-select .list .option:hover, .theme-dark .myAccount-content .edit-account .form-group .nice-select .list .option.focus, .theme-dark .myAccount-content .edit-account .form-group .nice-select .list .option.selected.focus {
   background-color: transparent;
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .myAccount-content .edit-account legend {
   color: #ffffff;
@@ -1431,13 +1431,13 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .blog-details-desc .article-content .entry-meta ul li span {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .blog-details-desc .article-content .entry-meta ul li a {
   color: #ffffff;
 }
 .theme-dark .blog-details-desc .article-content .entry-meta ul li a:hover, .theme-dark .blog-details-desc .article-content .entry-meta ul li a:focus {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .blog-details-desc .article-content .features-list li {
   color: #ffffff;
@@ -1455,7 +1455,7 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .blog-details-desc .article-footer .article-tags a:hover {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .blog-details-desc .article-footer .article-share .social li span {
   color: #ffffff;
@@ -1467,7 +1467,7 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .blog-details-desc .article-author .author-profile .author-profile-title .author-profile-raque-profile a:hover, .theme-dark .blog-details-desc .article-author .author-profile .author-profile-title .author-profile-raque-profile a:focus {
-  background-color: #1949ff;
+  background-color: #3a3285;
   color: #ffffff;
 }
 .theme-dark .raque-post-navigation {
@@ -1484,14 +1484,14 @@ Default CSS
 }
 .theme-dark .comments-area .comment-body .reply a:hover {
   color: #ffffff;
-  background-color: #1949ff;
-  border-color: #1949ff;
+  background-color: #3a3285;
+  border-color: #3a3285;
 }
 .theme-dark .comments-area .comment-metadata a {
   color: #ffffff;
 }
 .theme-dark .comments-area .comment-metadata a:hover {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .comments-area .comment-respond input[type=date], .theme-dark .comments-area .comment-respond input[type=time], .theme-dark .comments-area .comment-respond input[type=datetime-local], .theme-dark .comments-area .comment-respond input[type=week], .theme-dark .comments-area .comment-respond input[type=month], .theme-dark .comments-area .comment-respond input[type=text], .theme-dark .comments-area .comment-respond input[type=email], .theme-dark .comments-area .comment-respond input[type=url], .theme-dark .comments-area .comment-respond input[type=password], .theme-dark .comments-area .comment-respond input[type=search], .theme-dark .comments-area .comment-respond input[type=tel], .theme-dark .comments-area .comment-respond input[type=number], .theme-dark .comments-area .comment-respond textarea {
   background-color: #0e0e0e;
@@ -1523,10 +1523,10 @@ Default CSS
 }
 .theme-dark .woocommerce-topbar .topbar-ordering-and-search .topbar-ordering .nice-select .list .option:hover, .theme-dark .woocommerce-topbar .topbar-ordering-and-search .topbar-ordering .nice-select .list .option.focus, .theme-dark .woocommerce-topbar .topbar-ordering-and-search .topbar-ordering .nice-select .list .option.selected.focus {
   background-color: transparent;
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .woocommerce-topbar .topbar-ordering-and-search .topbar-search form label {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .woocommerce-topbar .topbar-ordering-and-search .topbar-search form .input-search {
   color: #ffffff;
@@ -1558,14 +1558,14 @@ Default CSS
   border-bottom: 1px solid #ffffff;
 }
 .theme-dark .product-details-desc .product-review .rating-count:hover {
-  color: #1949ff;
-  border-color: #1949ff;
+  color: #3a3285;
+  border-color: #3a3285;
 }
 .theme-dark .product-details-desc .product-meta span {
   color: #ffffff;
 }
 .theme-dark .product-details-desc .product-meta span span.sku {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .product-details-desc .product-meta span span.in-stock {
   color: #0eb582;
@@ -1574,7 +1574,7 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .product-details-desc .product-meta span a:hover, .theme-dark .product-details-desc .product-meta span a:focus {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .product-details-desc .custom-payment-options span {
   color: #ffffff;
@@ -1591,8 +1591,8 @@ Default CSS
 }
 .theme-dark .products-details-tab .tabs li a:hover, .theme-dark .products-details-tab .tabs li a:focus {
   color: #ffffff;
-  background-color: #1949ff;
-  border-color: #1949ff;
+  background-color: #3a3285;
+  border-color: #3a3285;
 }
 .theme-dark .products-details-tab .tabs li a:hover .dot, .theme-dark .products-details-tab .tabs li a:focus .dot {
   border-color: #ffffff;
@@ -1602,8 +1602,8 @@ Default CSS
 }
 .theme-dark .products-details-tab .tabs li.current a {
   color: #ffffff;
-  background-color: #1949ff;
-  border-color: #1949ff;
+  background-color: #3a3285;
+  border-color: #3a3285;
 }
 .theme-dark .products-details-tab .tabs li.current a .dot {
   border-color: #ffffff;
@@ -1634,7 +1634,7 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .products-details-tab .tab-content .tabs-item .products-details-tab-content .product-review-form .review-comments .review-item .review-report-link:hover {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .products-details-tab .tab-content .tabs-item .products-details-tab-content .product-review-form .review-form form .form-group {
   margin-bottom: 15px;
@@ -1674,7 +1674,7 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .cart-table table tbody tr td.product-name a:hover {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .cart-buttons .shopping-coupon-code .form-control {
   border: 1px solid #0e0e0e;
@@ -1688,7 +1688,7 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .cart-totals ul li:last-child span {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .cart-totals ul li span {
   color: #ffffff;
@@ -1696,13 +1696,13 @@ Default CSS
 .theme-dark .user-actions {
   box-shadow: unset;
   background: #0e0e0e;
-  border-top: 3px solid #1949ff;
+  border-top: 3px solid #3a3285;
 }
 .theme-dark .user-actions span a {
   color: #ffffff;
 }
 .theme-dark .user-actions span a:hover, .theme-dark .user-actions span a:focus {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .billing-details .title {
   border-bottom: 1px solid #0e0e0e;
@@ -1715,7 +1715,7 @@ Default CSS
   color: #000000;
 }
 .theme-dark .billing-details .form-group .nice-select .list .option:hover {
-  background-color: #1949ff !important;
+  background-color: #3a3285 !important;
   color: #ffffff;
 }
 .theme-dark .billing-details .form-group .nice-select:after {
@@ -1734,7 +1734,7 @@ Default CSS
 }
 .theme-dark .billing-details .form-group .form-control:focus {
   background-color: transparent;
-  border-color: #1949ff;
+  border-color: #3a3285;
 }
 .theme-dark .billing-details .form-group .form-control:focus::-moz-placeholder {
   color: transparent;
@@ -1768,7 +1768,7 @@ Default CSS
   color: #ffffff;
 }
 .theme-dark .order-details .order-table table tbody tr td.product-name a:hover {
-  color: #1949ff;
+  color: #3a3285;
 }
 .theme-dark .order-details .order-table table tbody tr td.order-subtotal span, .theme-dark .order-details .order-table table tbody tr td.order-shipping span, .theme-dark .order-details .order-table table tbody tr td.total-price span {
   color: #ffffff;
@@ -1787,7 +1787,7 @@ Default CSS
   border: 1px solid #ffffff;
 }
 .theme-dark .order-details .payment-box .payment-method p [type=radio]:checked + label::after, .theme-dark .order-details .payment-box .payment-method p [type=radio]:not(:checked) + label::after {
-  background: #1949ff;
+  background: #3a3285;
 }
 .theme-dark .contact-info-box {
   box-shadow: unset;
@@ -1849,12 +1849,12 @@ Default CSS
     color: #ffffff;
   }
   .theme-dark .raque-responsive-nav .raque-responsive-menu.mean-container .mean-nav .others-option .cart-wrapper-btn:hover {
-    color: #1949ff;
+    color: #3a3285;
   }
   .theme-dark .raque-responsive-nav .raque-responsive-menu.mean-container .mean-nav .others-option .search-box {
     color: #ffffff;
   }
   .theme-dark .raque-responsive-nav .raque-responsive-menu.mean-container .mean-nav .others-option .search-box:hover {
-    color: #1949ff;
+    color: #3a3285;
   }
 }/*# sourceMappingURL=dark.css.map */

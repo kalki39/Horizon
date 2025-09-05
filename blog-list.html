@@ -3,8 +3,7 @@
     <head>
         <!-- Required meta tags -->
         <meta charset="utf-8">
-        <meta name="viewport"
-            content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
         <!-- Links of CSS files -->
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -47,7 +46,7 @@
                     <div class="search-overlay-layer"></div>
                     <div class="search-overlay-layer"></div>
                     <div class="search-overlay-layer"></div>
-
+                    
                     <div class="search-overlay-close">
                         <span class="search-overlay-close-line"></span>
                         <span class="search-overlay-close-line"></span>
@@ -55,10 +54,8 @@
 
                     <div class="search-overlay-form">
                         <form>
-                            <input type="text" class="input-search"
-                                placeholder="Search here...">
-                            <button type="submit"><i
-                                    class='bx bx-search-alt'></i></button>
+                            <input type="text" class="input-search" placeholder="Search here...">
+                            <button type="submit"><i class='bx bx-search-alt'></i></button>
                         </form>
                     </div>
                 </div>
@@ -67,34 +64,33 @@
         <!-- End Search Box Layout -->
 
         <!-- Start Page Title Area -->
-        <div class="page-title-area item-bg3 jarallax"
-            data-jarallax='{"speed": 0.3}'>
+        <div class="page-title-area item-bg3 jarallax" data-jarallax='{"speed": 0.3}'>
             <div class="container">
                 <div class="page-title-content">
                     <ul>
                         <li><a href="index.html">Home</a></li>
-                        <li>Gallery</li>
+                        <li>Blogs</li>
                     </ul>
-                    <h2>Gallery</h2>
+                    <h2>Blogs</h2>
                 </div>
             </div>
         </div>
         <!-- End Page Title Area -->
 
-        <!-- Start Gallery Area -->
-        <section class="gallery-area pt-100 pb-70">
+        <!-- Start Blog Area -->
+        <section class="blog-area ptb-100">
             <div class="container">
-                <div class="row" id="gallery-list">
-
+                <div class="row" id="blog-list">
+                                  
                 </div>
             </div>
         </section>
-        <!-- End Gallery Area -->
+        <!-- End Blog Area -->
 
         <!-- Start Footer Area -->
         <div id="footer"></div>
         <!-- End Footer Area -->
-
+        
         <div class="go-top"><i class='bx bx-up-arrow-alt'></i></div>
 
         <!-- Dark version -->
@@ -127,30 +123,42 @@
         <script src="assets/js/layout.js"></script>
         <script>
 
-
-            document.addEventListener("DOMContentLoaded", async () => {
-                
-                const response = await fetch('./assets/js/gallery-files.json')
-                const files = await response.json();
-                 console.log(files);
-                 function renderGalleryList(count) {
-                return files.map((file, i) => `
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="single-gallery-item mb-30">
-                            <img src="assets/gallery/${file}" alt="Gallery Image" data-original="assets/gallery/${file}">
+            function renderBlogList(blogs) {
+                return blogs.map(blog => `
+                <div class="col-lg-4 col-md-6">
+                        <div class="single-blog-post mb-30">
+                            <div class="post-image">
+                                <a href="blog-detail.html?id=${blog.id}" class="d-block">
+                                    <img src="assets/img/blog/${blog.id}.jpg" alt="image">
+                                </a>
+                            </div>
+    
+                            <div class="post-content">
+                                <h3><a href="blog-detail.html?id=${blog.id}" class="d-inline-block">${blog.title}</a></h3>
+                                <a href="blog-detail.html?id=${blog.id}" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
+                            </div>
                         </div>
                     </div>
-                    `).join('');
+                `).join('');
+            }
 
-                 }
-                
-               
-                $('#gallery-list').html(renderGalleryList(18));
+
+            $(function() {
+                // const courseId = getCourseIdFromUrl();
+                // if (!courseId) return;
+
+                $.getJSON('assets/js/blog-detail-dynamic.json', function(blogs) {
+                    // const course = courses.find(c => c.id === courseId);
+                    console.log(blogs);
+                    // console.log(courses);
+                    // if (!course) {
+                    //     $('#course-title').text('Course not found');
+                    //     return;
+                    // }
+                    // $('[id=course-title]').text(course.title);
+                    $('#blog-list').html(renderBlogList(blogs));
+                });
             });
-
-    
-       
-
         </script>
     </body>
 </html>
