@@ -15377,3 +15377,42 @@ Buy Now Btn
   padding-top: 50px !important;
   padding-bottom: 50px !important;
 }
+
+/* .contact-btn{
+  color: white;
+}
+.contact-btn:hover {
+  color: white;
+  padding: 5px;
+  text-decoration: underline;
+} */
+
+.hover-underline-animation {
+  display: inline-block;
+  position: relative;
+  color: white;
+  text-decoration: none;
+}
+
+.hover-underline-animation::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: white;
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+
+.hover-underline-animation:hover {
+  color: white; /* Ensures text stays white on hover */
+}
+
+.hover-underline-animation:hover::after {
+  color: white;
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
