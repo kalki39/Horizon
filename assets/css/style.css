@@ -395,7 +395,7 @@ Preloader CSS
   width: 60%;
   height: 100%;
   z-index: -1;
-  background: #3a3285;
+  background: #ffffff;
   transition: 0.9s;
 }
 .preloader::after {
@@ -5778,6 +5778,7 @@ Testimonials CSS
   right: 0;
 }
 .single-testimonials-item .info img {
+  object-fit: cover;
   width: 100px !important;
   height: 100px;
   display: inline-block !important;

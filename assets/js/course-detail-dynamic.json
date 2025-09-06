@@ -7,7 +7,7 @@
     "lessons": "12 Lessons",
     "students": "400 students",
     "duration": "3 Months",
-    "image": "assets/img/courses/3.jpg",
+    "image": "assets/img/courses/new/1.PNG",
     "about": "Get fully prepared to become a Certified Professional Coder (CPC) — the most recognized certification in the healthcare coding industry. This course covers everything from CPT®, ICD-10-CM, and HCPCS Level II coding systems to coding guidelines, anatomy, and compliance. Perfect for those looking to start a high-demand, high-paying career in the healthcare domain.",
     "content": [
       "Medical Terminology & Anatomy",
@@ -85,7 +85,7 @@
     "lessons": "10 Lessons",
     "students": "90 Students",
     "duration": "2.5 Months",
-    "image": "assets/img/courses/3.jpg",
+    "image": "assets/img/courses/new/2.PNG",
     "about": "Master the art of risk-adjustment coding and secure your place in one of the fastest-growing sectors in healthcare. This course trains you on ICD-10-CM coding with a focus on chronic conditions, risk scores, documentation accuracy, and CMS-HCC guidelines. Perfect for coders who want to upgrade their profile or enter the value-based care coding domain.",
     "content": [
       "Overview of Risk Adjustment & CMS Models",
@@ -210,7 +210,7 @@
     "lessons": "14 Lessons",
     "students": "125 Students",
     "duration": "3 Months",
-    "image": "assets/img/courses/3.jpg",
+    "image": "assets/img/courses/new/3.PNG",
     "about": "Step into the world of inpatient hospital coding with Horizon's CIC training program. This course is designed to give you complete command over ICD-10-CM and ICD-10-PCS coding, MS-DRG assignments, discharge summaries, and hospital-based documentation. Ideal for coders who want to specialize in inpatient settings and work in multispecialty hospitals or revenue cycle firms.",
     "content": [
       "Introduction to Inpatient Coding & Hospital Settings",
@@ -335,7 +335,7 @@
     "lessons": "15 Lessons",
     "students": "142 Students",
     "duration": "3.5 Months",
-    "image": "assets/img/courses/3.jpg",
+    "image": "assets/img/courses/new/4.PNG",
     "about": "Master both inpatient and outpatient coding with Horizon's advanced CCS training program. Recognized globally and preferred by top healthcare companies, the CCS certification proves your expertise in analyzing and coding medical records from diverse healthcare settings. Perfect for coders ready to level up and unlock high-paying coding roles across the US and global markets.",
     "content": [
       "Medical Terminology & Pathophysiology",
@@ -459,7 +459,7 @@
     "lessons": "9 Lessons",
     "students": "128 Students",
     "duration": "2 Months",
-    "image": "assets/img/courses/3.jpg",
+    "image": "assets/img/courses/new/5.PNG",
     "about": "Step into the high-demand world of medical auditing with our CPMA certification training — designed for experienced coders ready to move up the ladder. This course equips you with the skills to conduct medical documentation audits, ensure coding accuracy, and support healthcare compliance. Perfect for CPC-certified coders, billing experts, and compliance professionals looking to specialize in audit and compliance roles.",
     "content": [
       "Introduction to Medical Auditing",
@@ -584,7 +584,7 @@
     "lessons": "8 Lessons",
     "students": "250 Students",
     "duration": "2 Months",
-    "image": "assets/img/courses/3.jpg",
+    "image": "assets/img/courses/new/6.PNG",
     "about": "This advanced-level course is designed for medical coders looking to specialize in surgical procedures. You'll learn to accurately code surgeries using CPT®, ICD-10-CM, and HCPCS with a focus on general, orthopedic, cardiovascular, and other surgical specialties. Gain practical skills with real operative reports and case studies to master complex scenarios and improve claim success rates. Ideal for those who want to boost their career with in-demand surgical coding expertise.",
     "content": [
       "Surgical Terminology & Anatomy",
@@ -705,7 +705,7 @@
     "lessons": "6 Lessons",
     "students": "200 Students",
     "duration": "1.5 Months",
-    "image": "assets/img/courses/3.jpg",
+    "image": "assets/img/courses/new/7.PNG",
     "about": "Unlock the world of diagnostic and interventional radiology coding with this in-depth course designed for coders aiming to specialize in imaging and radiological services. Learn to code procedures like X-rays, CT scans, MRIs, ultrasounds, and interventional techniques using CPT®, ICD-10-CM, and HCPCS systems. This course is perfect for those who want to build expertise in a niche, high-demand coding domain and stand out in the medical coding job market.",
     "content": [
       "Radiology Terminology & Anatomy",
@@ -826,7 +826,7 @@
   "lessons": "7 Lessons",
   "students": "220 students",
   "duration": "1.5 Months",
-  "image": "assets/img/courses/4.jpg",
+  "image": "assets/img/courses/new/8.PNG",
   "about": "Master the fast-paced world of Emergency Department coding — where accuracy, speed, and judgment matter the most. This course trains you in CPT®, ICD-10-CM, and HCPCS coding specific to emergency services, including trauma care, critical care, minor injuries, and diagnostic services. Perfect for medical coders who want to specialize in high-volume ED settings and increase their career value.",
   "content": [
     "ED E/M Level Coding (99281–99285)",
@@ -952,7 +952,7 @@
   "lessons": "7 Lessons",
   "students": "220+",
   "duration": "1.5 Months",
-  "image": "assets/img/courses/6.jpg",
+  "image": "assets/img/courses/new/9.PNG",
   "about": "Master one of the most essential skill sets in medical coding — Evaluation & Management (E/M) coding. This course is designed to help you accurately assign E/M codes based on medical decision-making (MDM), time, and documentation standards as per the 2021 AMA guidelines. Perfect for coders looking to specialize in physician coding, audit preparation, or compliance roles.",
   "content": [
     "Introduction to E/M Services",
@@ -1079,7 +1079,7 @@
   "lessons": "10 Lessons",
   "students": "320+",
   "duration": "2.5 Months",
-  "image": "assets/img/courses/7.jpg",
+  "image": "assets/img/courses/new/10.PNG",
   "about": "Master the art of risk adjustment coding with a focus on Hierarchical Condition Categories (HCC), one of the most in-demand specializations in healthcare coding. This course will equip you with in-depth knowledge of HCC models, documentation requirements, and accurate code capture — critical for improving patient risk profiles and reimbursement accuracy. Perfect for certified coders, healthcare professionals, and freshers aiming to specialize in value-based care and risk-adjusted coding systems.",
   "content": [
     "Introduction to Risk Adjustment & HCC",
@@ -1205,7 +1205,7 @@
   "lessons": "9 Lessons",
   "students": "180+",
   "duration": "2 Months",
-  "image": "assets/img/courses/7.jpg",
+  "image": "assets/img/courses/new/11.PNG",
   "about": "Master the complexities of Inpatient Diagnosis Related Group (IP-DRG) coding and become proficient in handling hospital-based medical records. This course focuses on DRG grouping logic, ICD-10-CM & ICD-10-PCS, case mix indexing, and inpatient claim optimization — essential skills for high-paying inpatient coding roles in hospitals and MNCs. Perfect for CPC/CCS-certified coders and freshers aspiring to enter the world of inpatient medical coding with real hospital chart exposure.",
   "content": [
     "Basics of IP-DRG and DRG Payment Models",
@@ -1331,7 +1331,7 @@
   "lessons": "16 Lessons",
   "students": "780+",
   "duration": "4 Months",
-  "image": "assets/img/courses/8.jpg",
+  "image": "assets/img/courses/new/12.PNG",
   "about": "AMCT is a comprehensive all-in-one program that blends Basic Medical Coding concepts with complete Certified Professional Coder (CPC) exam preparation — making it the perfect course for absolute beginners who want to build a strong foundation and become industry-ready certified professionals. This course takes you step-by-step from medical terminology and human anatomy to CPT®, ICD-10-CM, and HCPCS Level II coding. Whether you’re from a life science or non-medical background, this program is designed to turn you into a confident, certified medical coder with hands-on experience and career support.",
   "content": [
     "Medical Terminology & Anatomy",
@@ -1457,7 +1457,7 @@
   "lessons": "6 Lessons",
   "students": "950+",
   "duration": "1.5 Months",
-  "image": "assets/img/courses/8.jpg",
+  "image": "assets/img/courses/new/13.PNG",
   "about": "Get started with the fundamentals of medical coding through our Basic Medical Coding Training program. Designed for absolute beginners, this course builds your foundation in anatomy, medical terminology, coding systems, and healthcare documentation. It’s the perfect first step for those looking to enter the high-demand medical coding industry.",
   "content": [
     "Introduction to Medical Coding",
