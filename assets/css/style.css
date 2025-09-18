@@ -15416,3 +15416,97 @@ Buy Now Btn
   transform: scaleX(1);
   transform-origin: bottom left;
 }
+
+
+/* Container for the image and overlay */
+.about-image-overlay-container {
+  position: relative;
+  /* This is crucial for positioning the child element */
+  overflow: hidden;
+}
+
+/* Make the image responsive and fill the container */
+.about-image-overlay-container img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* Overlay that will sit on top of the image */
+.overlay-details {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 15px;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  transition: all 0.3s ease-in-out;
+}
+
+/* Optional: add a hover effect */
+.about-image-overlay-container:hover .overlay-details {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Text styles */
+.overlay-details h4 {
+  font-size: 1.5rem;
+  margin-bottom: 5px;
+}
+
+.overlay-details p {
+  font-size: 1rem;
+  margin: 0;
+}
+
+.sub-title2{
+  text-transform: uppercase;
+  display: block;
+  color: #3a3285;
+  font-weight: 500;
+  margin-bottom: 10px;
+  font-size: x-large;
+}
+
+.para{
+  text-align: start;
+}
+
+@media (min-width: 692px) {
+
+  .dflex{
+    display: flex !important;
+    justify-content: center !important;
+  }
+  /* .fimage{
+    width: 370px; 
+    max-height: 372px !important; 
+    object-fit: cover;
+  } */
+  .fimage img{
+    width: 370px;  /* Example fixed width */
+    max-height: 362px !important; /* Example fixed height */
+    object-fit: initial;
+  }
+
+
+}
+
+@media (max-width: 692px) {
+
+  .dflex{
+    margin-bottom: 15px;
+  }
+  .fimage img{
+    width: 100%;  /* Example fixed width */
+    max-height: 362px !important; /* Example fixed height */
+    object-fit: initial;
+  }
+
+
+}
+
+.pt-50{
+  padding-top: 50px !important;
+}
