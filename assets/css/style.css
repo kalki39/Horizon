@@ -15510,3 +15510,11 @@ Buy Now Btn
 .pt-50{
   padding-top: 50px !important;
 }
+
+.sub-title-h {
+    text-transform: uppercase;
+    display: block;
+    color: #3a3285;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
