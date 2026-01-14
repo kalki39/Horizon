@@ -54,6 +54,11 @@ document.addEventListener('DOMContentLoaded', function () {
         .then(data => {
             document.getElementById("header").innerHTML = data;
 
+            // Re-initialize MeanMenu after header is loaded
+            if (window.jQuery && window.jQuery('.mean-menu').length) {
+                window.jQuery('.mean-menu').meanmenu({ meanScreenWidth: "991" });
+            }
+
             // Ensure the height is set after the header is added
             setTimeout(setHeaderHeight, 100);
 
@@ -245,5 +250,5 @@ document.addEventListener('DOMContentLoaded', function () {
 //     fetch("sidebar.html")
 //         .then(response => response.text())
 //         .then(data => document.getElementById("sidebar").innerHTML = data)
-//         .catch(error => console.error("Error loading sidebar:", error));
+        // .catch(error => console.error("Error loading sidebar:", error));
 // });

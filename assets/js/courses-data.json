@@ -1,0 +1,433 @@
+[
+  {
+    "id": "graphic-design",
+    "title": "Certified Graphic Design with Free Project Course",
+    "subtitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+    "category": "Medical Coding",
+    "students": "2K+",
+    "lastUpdated": "01/14/2023",
+    "price": "$250",
+    "image": "assets/img/courses/1.jpg",
+    "duration": "3 Months",
+    "lessons": "49+",
+    "rating": 4.9,
+    "whatYouLearn": [
+      "Become an expert in Statistics",
+      "Boost your resume with skills",
+      "Gather, organize, data",
+      "Use data for improved",
+      "Present information KPIs",
+      "Perform quantitative",
+      "Analyze current data",
+      "Discover how to find trends",
+      "Understand the fundamentals",
+      "Use SQL to create, design"
+    ],
+    "requirements": [
+      "Contrary to popular belief, Lorem Ipsum is not simply random text.",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.",
+      "The standard Lorem Ipsum passage, used since the 1500s."
+    ],
+    "description": [
+      "<strong>Hi! Welcome to Certified Graphic Design with Free Project Course, the only course you need to become a BI Analyst.</strong>",
+      "We are proud to present you this one-of-a-kind opportunity. There are several online courses teaching some of the skills related to the BI Analyst profession. The truth of the matter is that none of them completely prepare you.",
+      "<strong>Our program is different than the rest of the materials available online.</strong>",
+      "It is truly comprehensive. The Business Intelligence Analyst Course comprises of several modules:",
+      "These are the precise technical skills recruiters are looking for when hiring BI Analysts. And today, you have the chance of acquiring an invaluable advantage to get ahead of other candidates. This course will be the secret to your success. And your success is our success, so let’s make it happen!",
+      "Here are some more details of what you get with The Business Intelligence Analyst Course:",
+      "<strong>Sounds amazing, right?</strong>",
+      "Our courses are unique because our team works hard to:",
+      "We love teaching and we are really excited about this journey. It will get your foot in the door of an exciting and rising profession. Don’t hesitate and subscribe today. The only regret you will have is that you didn’t find this course sooner!"
+    ],
+    "features": [
+      "Introduction to Data and Data Science",
+      "Statistics and Excel",
+      "Database theory",
+      "SQL",
+      "Tableau",
+      "<strong>Introduction to Data and Data Science</strong> – Make sense of terms like business intelligence, traditional and big data, traditional statistical methods, machine learning, predictive analytics, supervised learning, unsupervised learning, reinforcement learning, and many more;",
+      "<strong>Statistics and Excel</strong> – Understand statistical testing and build a solid foundation. Modern software packages and programming languages are automating most of these activities, but this part of the course gives you something more valuable – critical thinking abilities;",
+      "<strong>Database theory</strong> – Before you start using SQL, it is highly beneficial to learn about the underlying database theory and acquire an understanding of why databases are created and how they can help us manage data;",
+      "<strong>SQL</strong> – when you can work with SQL, it means you don’t have to rely on others sending you data and executing queries for you. You can do that on your own. This allows you to be independent and dig deeper into the data to obtain the answers to questions that might improve the way your company does its business;",
+      "<strong>Tableau</strong> – one of the most powerful and intuitive data visualization tools available out there. Almost all large companies use such tools to enhance their BI capabilities. Tableau is the #1 best-in-class solution that helps you create powerful charts and dashboards;",
+      "Learning a programming language is meaningless without putting it to use. That’s why we integrate SQL and Tableau, and perform several real-life Business Intelligence tasks;",
+      "Pre-script the entire content",
+      "Work with real-life examples",
+      "Provide easy to understand and complete explanation",
+      "Create beautiful and engaging animations",
+      "Prepare exercises, course notes, quizzes, and other materials that will enhance your course taking experience",
+      "Be there for you and provide support whenever necessary"
+    ],
+    "audience": [
+      "Beginners to programming and data science",
+      "Students eager to learn about job opportunities in the field of data science",
+      "Candidates willing to boost their resume by learning how to combine the knowledge of Statistics, SQL, and Tableau in a real-world working environment",
+      "SQL Programmers who want to develop business reasoning and apply their knowledge to the solution of various business tasks",
+      "People interested in a Business Intelligence Analyst career"
+    ],
+    "instructor": {
+      "name": "James Anderson",
+      "bio": [
+        "James Anderson is a celebrated photographer, author, and teacher who brings passion to everything he does.",
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+      ],
+      "image": "assets/img/user1.jpg"
+    },
+    "reviews": [
+      {
+        "name": "James Anderson",
+        "image": "assets/img/user1.jpg",
+        "comment": "Very well built theme, couldn't be happier with it. Can't wait for future updates to see what else they add in.",
+        "subComment": "Excellent",
+        "rating": 5
+      },
+      {
+        "name": "Sarah Taylor",
+        "image": "assets/img/user2.jpg",
+        "comment": "Was really easy to implement and they quickly answer my additional questions!",
+        "subComment": "Video Quality!",
+        "rating": 5
+      },
+      {
+        "name": "David Warner",
+        "image": "assets/img/user3.jpg",
+        "comment": "Stunning design, very dedicated crew who welcome new ideas suggested by customers, nice support.",
+        "subComment": "Perfect Coding!",
+        "rating": 5
+      }
+    ],
+    "sidebar": {
+      "students": "10",
+      "length": "1 Weeks",
+      "effort": "2–5 hours per week",
+      "institution": "ABC",
+      "subject": "Design",
+      "quizzes": "Yes",
+      "level": "Introductory",
+      "language": "English",
+      "subtitle": "English",
+      "certificate": "Yes"
+    },
+    "syllabus": [
+      {
+        "chapter": "Chapter 1",
+        "lessons": [
+          "Introduction",
+          "Quiz - Secret 1: Sell The Problem, Not The Solution",
+          "Secret 2: Think Like a Magazine, Not a Salesman (4:30)",
+          "Quiz - Secret 2: Think Like a Magazine, Not a Salesman",
+          "Secret 3: Content Is King, but Consistency Is Queen (3:56)",
+          "Quiz - Secret 3: Content Is King, but Consistency Is Queen",
+          "Secret 4: Punch Above Your Weight Class (11:00)",
+          "Secret 5: Ethically Steal Your Competitors' Customers (8:12)",
+          "Secret 6: Bulid an Audience By Borrowing (10:25)",
+          "Quiz - Secret 6: Bulid an Audience By Borrowing",
+          "Secret 7: Be a Shadow, Not a Ghost (5:19)",
+          "Bonus: Tips to Be a 5 Stars Freelancer (16:07)",
+          "Closing Thoughts (3:15)",
+          "Quiz - Secret 7: Be a Shadow, Not a Ghost"
+        ]
+      },
+      {
+        "chapter": "Chapter 2",
+        "lessons": [
+          "Final Quiz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cpc",
+    "title": "Certified Professional Coder (CPC) Training",
+    "subtitle": "Master CPT®, ICD-10-CM, and HCPCS Level II coding with expert guidance.",
+    "duration": "3 Months",
+    "category": "Medical Coding",
+    "students": "5K+",
+    "lessons": "49+",
+    "lastUpdated": "01/14/2025",
+    "price": "$250",
+    "image": "assets/img/courses/2.jpg",
+    "rating": 4.9,
+    "whatYouLearn": [
+      "Become an expert in Statistics",
+      "Boost your resume with skills",
+      "Gather, organize, data",
+      "Use data for improved",
+      "Present information KPIs",
+      "Perform quantitative",
+      "Analyze current data",
+      "Discover how to find trends",
+      "Understand the fundamentals",
+      "Use SQL to create, design"
+    ],
+    "requirements": [
+      "Contrary to popular belief, Lorem Ipsum is not simply random text.",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.",
+      "The standard Lorem Ipsum passage, used since the 1500s."
+    ],
+    "description": [
+      "<strong>Hi! Welcome to Certified Graphic Design with Free Project Course, the only course you need to become a BI Analyst.</strong>",
+      "We are proud to present you this one-of-a-kind opportunity. There are several online courses teaching some of the skills related to the BI Analyst profession. The truth of the matter is that none of them completely prepare you.",
+      "<strong>Our program is different than the rest of the materials available online.</strong>",
+      "It is truly comprehensive. The Business Intelligence Analyst Course comprises of several modules:",
+      "These are the precise technical skills recruiters are looking for when hiring BI Analysts. And today, you have the chance of acquiring an invaluable advantage to get ahead of other candidates. This course will be the secret to your success. And your success is our success, so let’s make it happen!",
+      "Here are some more details of what you get with The Business Intelligence Analyst Course:",
+      "<strong>Sounds amazing, right?</strong>",
+      "Our courses are unique because our team works hard to:",
+      "We love teaching and we are really excited about this journey. It will get your foot in the door of an exciting and rising profession. Don’t hesitate and subscribe today. The only regret you will have is that you didn’t find this course sooner!"
+    ],
+    "features": [
+      "Introduction to Data and Data Science",
+      "Statistics and Excel",
+      "Database theory",
+      "SQL",
+      "Tableau",
+      "<strong>Introduction to Data and Data Science</strong> – Make sense of terms like business intelligence, traditional and big data, traditional statistical methods, machine learning, predictive analytics, supervised learning, unsupervised learning, reinforcement learning, and many more;",
+      "<strong>Statistics and Excel</strong> – Understand statistical testing and build a solid foundation. Modern software packages and programming languages are automating most of these activities, but this part of the course gives you something more valuable – critical thinking abilities;",
+      "<strong>Database theory</strong> – Before you start using SQL, it is highly beneficial to learn about the underlying database theory and acquire an understanding of why databases are created and how they can help us manage data;",
+      "<strong>SQL</strong> – when you can work with SQL, it means you don’t have to rely on others sending you data and executing queries for you. You can do that on your own. This allows you to be independent and dig deeper into the data to obtain the answers to questions that might improve the way your company does its business;",
+      "<strong>Tableau</strong> – one of the most powerful and intuitive data visualization tools available out there. Almost all large companies use such tools to enhance their BI capabilities. Tableau is the #1 best-in-class solution that helps you create powerful charts and dashboards;",
+      "Learning a programming language is meaningless without putting it to use. That’s why we integrate SQL and Tableau, and perform several real-life Business Intelligence tasks;",
+      "Pre-script the entire content",
+      "Work with real-life examples",
+      "Provide easy to understand and complete explanation",
+      "Create beautiful and engaging animations",
+      "Prepare exercises, course notes, quizzes, and other materials that will enhance your course taking experience",
+      "Be there for you and provide support whenever necessary"
+    ],
+    "audience": [
+      "Beginners to programming and data science",
+      "Students eager to learn about job opportunities in the field of data science",
+      "Candidates willing to boost their resume by learning how to combine the knowledge of Statistics, SQL, and Tableau in a real-world working environment",
+      "SQL Programmers who want to develop business reasoning and apply their knowledge to the solution of various business tasks",
+      "People interested in a Business Intelligence Analyst career"
+    ],
+    "instructor": {
+      "name": "James Anderson",
+      "bio": [
+        "James Anderson is a celebrated photographer, author, and teacher who brings passion to everything he does.",
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+      ],
+      "image": "assets/img/user1.jpg"
+    },
+    "reviews": [
+      {
+        "name": "James Anderson",
+        "image": "assets/img/user1.jpg",
+        "comment": "Very well built theme, couldn't be happier with it. Can't wait for future updates to see what else they add in.",
+        "subComment": "Excellent",
+        "rating": 5
+      },
+      {
+        "name": "Sarah Taylor",
+        "image": "assets/img/user2.jpg",
+        "comment": "Was really easy to implement and they quickly answer my additional questions!",
+        "subComment": "Video Quality!",
+        "rating": 5
+      },
+      {
+        "name": "David Warner",
+        "image": "assets/img/user3.jpg",
+        "comment": "Stunning design, very dedicated crew who welcome new ideas suggested by customers, nice support.",
+        "subComment": "Perfect Coding!",
+        "rating": 5
+      }
+    ],
+    "sidebar": {
+      "students": "10",
+      "length": "1 Weeks",
+      "effort": "2–5 hours per week",
+      "institution": "ABC",
+      "subject": "Design",
+      "quizzes": "Yes",
+      "level": "Introductory",
+      "language": "English",
+      "subtitle": "English",
+      "certificate": "Yes"
+    },
+    "syllabus": [
+      {
+        "chapter": "Chapter 1",
+        "lessons": [
+          "Introduction",
+          "Quiz - Secret 1: Sell The Problem, Not The Solution",
+          "Secret 2: Think Like a Magazine, Not a Salesman (4:30)",
+          "Quiz - Secret 2: Think Like a Magazine, Not a Salesman",
+          "Secret 3: Content Is King, but Consistency Is Queen (3:56)",
+          "Quiz - Secret 3: Content Is King, but Consistency Is Queen",
+          "Secret 4: Punch Above Your Weight Class (11:00)",
+          "Secret 5: Ethically Steal Your Competitors' Customers (8:12)",
+          "Secret 6: Bulid an Audience By Borrowing (10:25)",
+          "Quiz - Secret 6: Bulid an Audience By Borrowing",
+          "Secret 7: Be a Shadow, Not a Ghost (5:19)",
+          "Bonus: Tips to Be a 5 Stars Freelancer (16:07)",
+          "Closing Thoughts (3:15)",
+          "Quiz - Secret 7: Be a Shadow, Not a Ghost"
+        ]
+      },
+      {
+        "chapter": "Chapter 2",
+        "lessons": [
+          "Final Quiz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "crc",
+    "title": "Certified Risk Adjustment Coder (CRC)",
+    "subtitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+    "category": "Medical Coding",
+    "students": "350+",
+    "lastUpdated": "01/14/2023",
+    "price": "$250",
+    "image": "assets/img/courses/3.jpg",
+    "duration": "1.5 Months",
+    "lessons": "35",
+    "rating": 4.9
+  },
+  {
+    "id": "amct",
+    "title": "Advanced Medical Coding Training (AMCT)",
+    "subtitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+    "category": "Medical Coding",
+    "students": "300+",
+    "lastUpdated": "01/14/2023",
+    "price": "$250",
+    "image": "assets/img/courses/8.jpg",
+    "duration": "3 Months",
+    "lessons": "45",
+    "rating": 4.9
+  },
+  {
+    "id": "cic",
+    "title": "Certified Inpatient Coder (CIC)",
+    "subtitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+    "category": "Medical Coding",
+    "students": "280+",
+    "lastUpdated": "01/14/2023",
+    "price": "$250",
+    "image": "assets/img/courses/4.jpg",
+    "duration": "1.5 Months",
+    "lessons": "38",
+    "rating": 4.9
+  },
+  {
+    "id": "ccs",
+    "title": "Certified Coding Specialist (CCS – AHIMA)",
+    "subtitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+    "category": "Medical Coding",
+    "students": "200+",
+    "lastUpdated": "01/14/2023",
+    "price": "$250",
+    "image": "assets/img/courses/5.jpg",
+    "duration": "1.5 Months",
+    "lessons": "36",
+    "rating": 4.9
+  },
+  {
+    "id": "cpma",
+    "title": " Certified Professional Medical Auditor (CPMA)",
+    "subtitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+    "category": "Medical Coding",
+    "students": "150+",
+    "lastUpdated": "01/14/2023",
+    "price": "$250",
+    "image": "assets/img/courses/6.jpg",
+    "duration": "1.5 Months",
+    "lessons": "30",
+    "rating": 4.9
+  },
+  {
+    "id": "basic-medical-coding",
+    "title": "Basic Medical Coding Training",
+    "subtitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+    "category": "Medical Coding",
+    "students": "400+",
+    "lastUpdated": "01/14/2023",
+    "price": "$250",
+    "image": "assets/img/courses/7.jpg",
+    "duration": "1.5 Months",
+    "lessons": "25",
+    "rating": 4.9
+  },
+  {
+    "id": "survey-coding",
+    "title": "Surgery Coding",
+    "subtitle": "Develop accuracy in surgical CPT coding and operative report analysis.",
+    "category": "Medical Coding",
+    "students": "250+",
+    "lastUpdated": "01/14/2023",
+    "price": "$250",
+    "image": "assets/img/courses/7.jpg",
+    "duration": "2 Months",
+    "lessons": "8",
+    "rating": 4.9
+  },
+  {
+    "id": "ed",
+    "title": "Emergency Department (ED) Coding",
+    "subtitle": "Master documentation and coding for ER procedures and visits.",
+    "category": "Medical Coding",
+    "students": "220+",
+    "lastUpdated": "01/14/2023",
+    "price": "$250",
+    "image": "assets/img/courses/7.jpg",
+    "duration": "1.5 Months",
+    "lessons": "7",
+    "rating": 4.9
+  },
+  {
+    "id": "em-coding",
+    "title": "Evaluation & Management (E/M) Coding",
+    "subtitle": "Gain confidence in coding E/M visits with the latest guidelines.",
+    "category": "Medical Coding",
+    "students": "300+",
+    "lastUpdated": "01/14/2023",
+    "price": "$250",
+    "image": "assets/img/courses/7.jpg",
+    "duration": "2 Months",
+    "lessons": "8",
+    "rating": 4.9
+  },
+  {
+    "id": "radiology-coding",
+    "title": "Radiology Coding",
+    "subtitle": "Learn specialized coding for diagnostic and interventional radiology.",
+    "category": "Medical Coding",
+    "students": "200+",
+    "lastUpdated": "01/14/2023",
+    "price": "$250",
+    "image": "assets/img/courses/7.jpg",
+    "duration": "1.5 Months",
+    "lessons": "6",
+    "rating": 4.9
+  },
+  {
+    "id": "hcc",
+    "title": "Hierarchical Condition Category (HCC) Coding",
+    "subtitle": "Understand risk adjustment and master HCC documentation requirements.",
+    "category": "Medical Coding",
+    "students": "320+",
+    "lastUpdated": "01/14/2023",
+    "price": "$250",
+    "image": "assets/img/courses/8.jpg",
+    "duration": "2.5 Months",
+    "lessons": "10",
+    "rating": 4.9
+  },
+  {
+    "id": "ipdrg-coding",
+    "title": " Inpatient DRG (IPDRG) Coding",
+    "subtitle": "Specialize in DRG assignment and coding for inpatient care.",
+    "category": "Medical Coding",
+    "students": "180+",
+    "lastUpdated": "01/14/2023",
+    "price": "$250",
+    "image": "assets/img/courses/9.jpg",
+    "duration": "2 Months",
+    "lessons": "9",
+    "rating": 4.9
+  }
+  
+]
